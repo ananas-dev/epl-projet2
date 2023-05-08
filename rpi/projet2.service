@@ -1,0 +1,7 @@
+[Unit]
+Description=Projet 2
+After=hostapd.service
+
+[Service]
+ExecStart=/bin/env python3 /usr/local/projet2/rpi/main.py
+Type=exec

@@ -1,0 +1,1 @@
+inductance: 1.25
